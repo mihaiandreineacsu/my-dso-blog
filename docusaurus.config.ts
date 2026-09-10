@@ -128,7 +128,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Mihai-Andrei Neacsu (Belsamor). Built with Docusaurus and 💚. extended from the developer-akademie-starter`,
+      copyright: `Copyright © ${new Date().getFullYear()} Mihai-Andrei Neacsu (mihaiandreineacsu). Built with Docusaurus and 💚. extended from the developer-akademie-starter`,
     },
     prism: {
       theme: prismThemes.github,
