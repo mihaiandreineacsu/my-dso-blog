@@ -13,7 +13,7 @@ const repo_url = process.env.GIT_REPOSITORY_URL ?? 'https://github.com/Belsamor/
 
 const config: Config = {
   title: 'DA DSO Lernblog',
-  tagline: 'Lars Hank - von IT Service Management mit DSO kombinieren',
+  tagline: 'Mihai-Andrei Neacsu - von IT Service Management mit DSO kombinieren',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -128,7 +128,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Lars Hank (Belsamor). Built with Docusaurus and 💚. extended from the developer-akademie-starter`,
+      copyright: `Copyright © ${new Date().getFullYear()} Mihai-Andrei Neacsu (Belsamor). Built with Docusaurus and 💚. extended from the developer-akademie-starter`,
     },
     prism: {
       theme: prismThemes.github,
