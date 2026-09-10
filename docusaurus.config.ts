@@ -9,7 +9,7 @@ dotenvconfig();
 const blogEnabled = Boolean(process.env.BLOG_ENABLED === 'true')
 
 // Git Repository URL
-const repo_url = process.env.GIT_REPOSITORY_URL ?? 'https://github.com/Belsamor/my-dso-blog'
+const repo_url = process.env.GIT_REPOSITORY_URL ?? 'https://github.com/mihaiandreineacsu/my-dso-blog'
 
 const config: Config = {
   title: 'DA DSO Lernblog',
